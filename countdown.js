@@ -15,8 +15,8 @@
 var CountdownImageFolder = "images/";
 var CountdownImageBasename = "flipper";
 var CountdownImageExt = "png";
-var CountdownImagePhysicalWidth = 41;
-var CountdownImagePhysicalHeight = 60;
+var CountdownImagePhysicalWidth = 300;
+var CountdownImagePhysicalHeight = 439;
 
 var CountdownWidth = 200;
 var CountdownHeight = 30;
